@@ -85,12 +85,18 @@ Notebook: `notebooks/CSC309_Week9_PH_Student_Centred.ipynb`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week09_Expert_Systems_Student_Centred.ipynb)
 
-## Week 10 - : Robotics and Image Recognition 
+## Week 10 - : Computer Vision & Simple Robotics 
 
 Notebook: `notebooks/CSC309_Week10_PH_Student_Centred.ipynb` 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week10_Vision_Robot_Student_Centred.ipynb)
+
+
+## Week 11 - : Multi‑Agent Systems — Boids / Ants / Message Passing 
+Notebook: `notebooks/CSC309_Week11_PH_Student_Centred.ipynb` 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week11_MultiAgent_CA3_Student_Centred.ipynb)
 
 This repository contains AI practical notebooks for CSC 309.
