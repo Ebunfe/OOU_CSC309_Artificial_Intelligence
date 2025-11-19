@@ -3,6 +3,8 @@
 Lecture note, Practical notebooks and mini-projects for CSC309 - Artificial_Intelligence
 
 ### CSC 309 Lecture Note (Google Docs)
+https://docs.google.com/document/d/1pGnRa36Xq8R7eSP8KhueBHD5oSmUadWL_0VrQ1QpPj8/edit?usp=sharing
+https://docs.google.com/document/d/1pGnRa36Xq8R7eSP8KhueBHD5oSmUadWL_0VrQ1QpPj8/edit?tab=t.0
 
 
 🧪 Practical Notebooks
